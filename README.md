@@ -1,1 +1,2 @@
 # to-do-list
+#Make your own to-do-list. When you hit run, it asks you what you want to do with your to do list, enter the number that corresponds with the option and hit enter. You can add whatever you want on the list, check it off when you complete it, sort your list in aphabetical order, remove something on the list, or wipe everything off your list. Quit the program when you're done by choosing the last option.
